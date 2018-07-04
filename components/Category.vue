@@ -29,7 +29,7 @@
       display: flex
       justify-content: space-between
       align-items: center
-      padding: 0 15px 2px 0
+      padding: 0 5px 2px 0
       border-bottom: 0.5px solid $hover-bar-border
     &__title, &__showall
       text-transform: uppercase
