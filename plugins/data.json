@@ -1,0 +1,55 @@
+[
+  {
+  "publications": [
+    {
+      "title": "caption",
+      "content": "some-content",
+      "_id": "5b3cfc986e152ba130b39675",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "title": "caption",
+      "content": "some-content",
+      "_id": "5b3cfc983189f27e92d276f4",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "title": "caption",
+      "content": "some-content",
+      "_id": "5b3cfc9811c409b5c3cd3b60",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "title": "caption",
+      "content": "some-content",
+      "_id": "5b3cfc98528f408c77a0c5f1",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "title": "caption",
+      "content": "some-content",
+      "_id": "5b3cfc986c32580f2d05b2ba",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Новости"
+    },
+    {
+      "id": "2",
+      "name": "Медицинские статьи"
+    },
+    {
+      "id": "3",
+      "name": "Здоровье и красота"
+    }
+  ]
+}
+]
