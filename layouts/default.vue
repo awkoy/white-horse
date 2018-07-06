@@ -5,18 +5,21 @@
     Nav
     HoverBar
     Category
+    Footer
 </template>
 <script>
   import Header from '~/components/Header.vue';
   import Nav from '~/components/Nav.vue';
   import HoverBar from '~/components/HoverBar.vue';
   import Category from '~/components/Category.vue';
+  import Footer from '~/components/Footer.vue';
   export default {
     components: {
       Header,
       Nav,
       HoverBar,
-      Category
+      Category,
+      Footer
     },
   }
 </script>

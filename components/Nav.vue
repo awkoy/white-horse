@@ -11,7 +11,6 @@
           a(href="#").nav__actions__img.hm-search
         li
           a(href="#").nav__actions__img.hm-post
-
 </template>
 <script>
   import data from '@/plugins/data.json'
@@ -96,13 +95,13 @@
         transition: .3s
         position: relative
         margin-right: 14px
+        cursor: pointer
         &:last-child
           margin-right: 0
         &:hover
           background-color: $social-hover-white
       &__img
         display: inline-block
-        cursor: pointer
         position: absolute
         top: 0
         right: 0
